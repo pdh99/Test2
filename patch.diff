@@ -1,0 +1,19 @@
+From 24faa57bf95b2698ae05748e5e2f20b50da87612 Mon Sep 17 00:00:00 2001
+From: "MSI\\11472" <1147216194@qq.com>
+Date: Mon, 11 Jul 2022 18:52:05 +0800
+Subject: [PATCH] =?UTF-8?q?=E5=81=9C=E6=AD=A2=E8=B7=9F=E8=B8=AA?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+---
+ .gitignore | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ delete mode 100644 .gitignore
+
+diff --git a/.gitignore b/.gitignore
+deleted file mode 100644
+index e69de29..0000000
+-- 
+2.35.1.windows.2
+
